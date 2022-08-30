@@ -49,17 +49,17 @@ body{
 /* topbar done*/
 /* navbar */
 .navbar{
-    background: rgba(113, 57, 113, 0.372);
+    background: rgba(16, 233, 103, 0.854);
 }
 .navbar-nav a{
     color: white;
     font-weight: 600;
 }
 .navbar-nav a:hover{
-    color: black;
+    color: rgb(0, 0, 0);
 }
 .dropdown ul{
-    background: rgba(113, 57, 113, 0.372);
+    background: rgba(16, 233, 103, 0.854);
 }
 /* navbar done */
 
@@ -69,14 +69,14 @@ body{
     color: black;
 }
 .carousel-indicators .active{
-    background-color: purple !important;
+    background-color: goldenrod  !important;
 }
 /* carousel done */
 
 /* content */
 .card{
     outline: 2px solid #7d3054;
-    box-shadow: 0 0 20px 0 #7d3054;
+    box-shadow: 0 0 20px 0 goldenrod ;
     transition: 1s;
     border-radius: 2rem 0 !important;
 }
@@ -214,7 +214,7 @@ body{
     font-weight: 600;
 }
 .cartbtn{
-    background: #7d3054 !important;
+    background: goldenrod !important;
     color: white !important;
 }
 /* cart done */
@@ -225,7 +225,7 @@ body{
     padding: 10px;
 }
 .cart p{
-    color: black;
+    color: goldenrod ;
     text-transform: capitalize;
     font-weight: 600;
     font-size: large;
@@ -238,7 +238,7 @@ body{
 }
 .profavat img{
     border-radius: 100%;
-    outline: 2px solid #7d3054;
+    outline: 2px solid goldenrod ;
 }
 .uselink{
     padding-top: 5%;
